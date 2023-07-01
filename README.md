@@ -12,7 +12,7 @@
 Create table:  c—<tableName>
 #### Select from table:
 `s—<tableIndex>—<tableColumn>—<searchQuery>—<searchQuery>`
-Insert to table(Not done yet correctly):
+#### Insert to table(Not done yet correctly):
 `i—<tableIndex>—<row content>`
-Get table list:
+#### Get table list:
 `g`
